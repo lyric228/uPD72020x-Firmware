@@ -1,2 +1,2 @@
 #!/bin/sh
-tar -xzvf uPD72020x-Firmware-1.0.0.tar.gz
+tar -xzvf uPD72020x-Firmware.tar.gz

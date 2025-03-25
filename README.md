@@ -3,5 +3,5 @@
 
 To install it automatically, simply run this command:
 ```sh
-curl -o- https://raw.githubusercontent.com/lyric228/uPD72020x-Firmware-1.0.0/refs/heads/master/auto-install | sh
+curl -o- https://raw.githubusercontent.com/lyric228/uPD72020x-Firmware/refs/heads/master/auto-install | sh
 ```

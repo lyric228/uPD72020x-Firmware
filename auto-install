@@ -1,6 +1,6 @@
 #!/bin/sh
 
-repo="uPD72020x-Firmware-1.0.0"
+repo="uPD72020x-Firmware"
 mkdir -p "~/$repo"
 git clone "https://github.com/lyric228/$repo" "~/$repo"
 cd "~/$repo/src"
