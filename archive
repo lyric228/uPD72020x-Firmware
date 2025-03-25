@@ -1,0 +1,2 @@
+#!/bin/sh
+tar -czvf uPD72020x-Firmware-1.0.0.tar.gz  . --preserve-permissions --same-owner
